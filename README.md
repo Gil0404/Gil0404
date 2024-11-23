@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently Improving My Skill and Stack for Future<br>I'm learning JavaScript<br>
+I'm currently Improving My Skill and Stack for Future<br><br>
 
 
 # 💻 Tech Stack:
